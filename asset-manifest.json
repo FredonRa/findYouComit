@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/findYouComit/static/css/main.d226a1f8.chunk.css",
+    "main.js": "/findYouComit/static/js/main.cfa7aa07.chunk.js",
+    "main.js.map": "/findYouComit/static/js/main.cfa7aa07.chunk.js.map",
+    "runtime-main.js": "/findYouComit/static/js/runtime-main.da8c0acb.js",
+    "runtime-main.js.map": "/findYouComit/static/js/runtime-main.da8c0acb.js.map",
+    "static/js/2.80778409.chunk.js": "/findYouComit/static/js/2.80778409.chunk.js",
+    "static/js/2.80778409.chunk.js.map": "/findYouComit/static/js/2.80778409.chunk.js.map",
+    "index.html": "/findYouComit/index.html",
+    "static/css/main.d226a1f8.chunk.css.map": "/findYouComit/static/css/main.d226a1f8.chunk.css.map",
+    "static/js/2.80778409.chunk.js.LICENSE.txt": "/findYouComit/static/js/2.80778409.chunk.js.LICENSE.txt",
+    "static/media/hug2.6b98b92a.jpg": "/findYouComit/static/media/hug2.6b98b92a.jpg",
+    "static/media/hug3.30c085ec.jpg": "/findYouComit/static/media/hug3.30c085ec.jpg",
+    "static/media/logo23.cf4a185a.png": "/findYouComit/static/media/logo23.cf4a185a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da8c0acb.js",
+    "static/js/2.80778409.chunk.js",
+    "static/css/main.d226a1f8.chunk.css",
+    "static/js/main.cfa7aa07.chunk.js"
+  ]
+}
